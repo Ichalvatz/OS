@@ -1,0 +1,14 @@
+/home/ichalvatz/Lab05
+log
+stat: cannot stat 'filename': No such file or directory
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./EXAMPLE
+cat: file.txt: No such file or directory
+file.txt: No such file or directory
+head: cannot open 'file.txt' for reading: No such file or directory
+tail: cannot open 'file.txt' for reading: No such file or directory
+Initialized empty Git repository in /home/ichalvatz/Lab05/.git/
